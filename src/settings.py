@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # third-party apps
     'drf_yasg',
+    'django_nose',
     # local apps
     'src.music_store',
 

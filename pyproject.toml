@@ -13,6 +13,8 @@ djangorestframework = "^3.14.0"
 drf-yasg = "^1.21.7"
 pre-commit = "^3.3.3"
 python-dotenv = "^1.0.0"
+django-nose = "^1.4.7"
+coverage = "^7.3.0"
 
 
 [build-system]
