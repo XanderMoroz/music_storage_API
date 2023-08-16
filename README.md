@@ -26,7 +26,7 @@ Music_Storage_API - backend-сервис на основе `Django REST Framewor
 
 1.1 Клонируете репозиторий
 ```sh
-git clone https://github.com/XanderMoroz/boilerplate_fastapi.git
+git clone https://github.com/XanderMoroz/music_storage_API.git
 ```
 ### 2.1 Запуск проекта без Doker
 
