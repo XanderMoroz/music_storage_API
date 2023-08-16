@@ -30,7 +30,7 @@ git clone https://github.com/XanderMoroz/music_storage_API.git
 ```
 ### 2.1 Запуск проекта без Doker
 
-2.1.1 Устанавливаете, виртуальное окружение:
+2.1.1 Устанавливаете виртуальное окружение:
 ```sh
 poetry shell
 ```
