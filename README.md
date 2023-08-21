@@ -7,7 +7,7 @@ Music_Storage_API - backend-сервис на основе `Django REST Framewor
 
 База данных содержит 2 модели: `Artist`(Исполнитель), `Album`(Альбом), `Song`(Композиция). Ниже представлена графическая схема моделей и их взаимосвязей.
 
-![Screen Shot](extras/erd.png)
+![Screen Shot](extras/erd.jpg)
 
 ## Краткая документация API
 
